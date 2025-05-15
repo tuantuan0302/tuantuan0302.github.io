@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "学习笔记"
+title: "FIC数字取证writeup"
 date:   2025-5-15
-tags: [geek]
+tags: [网络安全-数字取证]
 comments: true
 author: lemonchann
 ---
