@@ -6,6 +6,6 @@ permalink: /about/
 
 ## 关于我
 
-From:大连东软信息学院
+From:Dalian Neusoft University of Information
 Project type：integrated circuit | network security
 
